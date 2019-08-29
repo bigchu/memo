@@ -1,0 +1,16 @@
+baseURL = "http://bigchu.github.io/"
+languageCode = "ja"
+title = "memo"
+theme = "minimal-bootstrap-hugo-theme"
+
+
+
+[params]
+  description = "hogehoge memomemo"
+
+
+[menu]
+  [[menu.nav]]
+  name = "@bigchu memo"
+  url = "/"
+  weight = 1
